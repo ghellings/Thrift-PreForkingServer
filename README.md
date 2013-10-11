@@ -6,9 +6,13 @@ INSTALLATION
 To install this module type the following:
 
    perl Makefile.PL
+
    make
+
    make test
+
    make install
+
 
 DEPENDENCIES
 
