@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Thrift-PreForkingServer.t
+lib/Thrift/PreForkingServer.pm
